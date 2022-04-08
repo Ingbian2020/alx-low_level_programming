@@ -1,12 +1,12 @@
-# include <stdio.h>
+#include <stdio.h>
 /**
  * main - entry point
  *
- *Return: o after printing the function
+ * Return: 0 Always 0 (Success)
  */
 int main(void)
 {
 puts("\"programming is like building a multilingual puzzle");
-return (o);
+    return (0);
 }
 
